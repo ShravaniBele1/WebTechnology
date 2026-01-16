@@ -1,0 +1,63 @@
+WT 
+
+      FRONTEND                           BACKEND 
+
+    HTML     CSS                         .NET
+      (Basics)				 EXPRESS
+         |
+	 |node
+	 |
+	JS
+	 |
+	 |
+	DOM -> API -> MONGO
+	 |
+	 |
+     React/Angular
+
+
+
+nodejs--run JS code outside browser
+
+terminal-> node --version / node -v
+to run->   node file.js
+
+variables ->  primitive -> NUMBER,NULL,UNDEFINED,STRING,BOOLEAN,BIGINT,SYMBOL
+              non-primitive -> OBJECT
+
+keywords to declare variables -> LET,VAR,CONST
+
+let & const -> new style to declare variable
+var -> old style 
+
+
+IMP
+
+Q.1)What is js and nodejs ?
+
+-> JavaScript (JS):
+	A language used to make websites interactive.
+	Example: buttons, pop-ups, changing text.
+	
+   NodeJs : USED TO run JS code outside the browser
+
+  
+Q.2)What is difference between let,const,var? 
+
+-> var → Old way to create variables, not safe, works everywhere in the function.
+
+   let → Modern way, value can change, works only inside { } block.
+
+   const → Value cannot change, also works only inside { } block.
+    
+   block of scope
+
+
+Conversion Operators -
+
+Activity 1 --conversion of all data types
+Activity 2 --check true ,1,0
+Activity 3-- undefined and null result check
+
+js only automatically convert a string to a number in arithmetical operations
+  
