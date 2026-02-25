@@ -15,7 +15,7 @@ console.log(arr1.concat(arr2));
 const arr3 = [1,2,3,[4,5,6],7,[6,7],[4,5]];
 console.log(arr3);
 
-const arr4 = arr3.flat(Infinity);//faltens all levels no matter how deep
+const arr4 = arr3.flat(Infinity);//flatens all levels no matter how deep
 console.log(arr4);
 
 const arr5 = arr4.flat(1); //how deep should be  a nested array specifies should be default value is 1
