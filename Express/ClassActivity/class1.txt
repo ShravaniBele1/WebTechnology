@@ -1,0 +1,25 @@
+Express - express is a minimal and flexible application framework for node.js that simplifies the development of web server and apis.
+It provides features such as routing , middleware support ,request and response handling , template rendering ,rest api creation 
+node.js - used for small application 
+express - used for large and complex applications in company level
+
+step for express project.....
+1.npm init
+2.nom install express
+3.create entry file index.js
+
+
+Activity 1 -
+1.different between package.json and package.lock.json?
+2.difference between dependencies and dev dependencies?
+3.difference between put and fetch - crud operation, types of routes(GET ,POST,PUT,DELETE,FETCH)
+4.create something in all route pages
+
+Routing in express - 
+Routing refers to determine how an application respond client request for specific url and http mail.
+
+Component url path-- 
+1.url path 
+2.http methods 
+3.handler function
+
